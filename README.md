@@ -1,1 +1,3 @@
 # FreshStart
+
+FreshStart is a health app designed to improve your personal health in many different ways. From physical (tailored workouts based on your goals, activity trackers, nutrition calculators, diet plans…) to mental health (meditation guides, daily check-in to keep yourself positive, specialised plans…). All of these features will be easy and intuitive to access, the app is focused on being simple yet informative to the user. FreshStart is for those who want to make a significant change in their lives, to improve themselves and to become a better person. Sometimes everyone needs a FreshStart.
