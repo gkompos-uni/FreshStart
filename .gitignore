@@ -1,0 +1,24 @@
+# FreshStart .gitignore
+
+# Django environment folder
+/freshstart_env/
+
+# React Native node modules
+/FreshStartApp/node_modules/
+
+# Miscellaneous
+*.log
+*.pyc
+*.swp
+*.DS_Store
+*.idea/
+
+# Django default ignores
+freshstart_backend/db.sqlite3
+freshstart_backend/__pycache__/
+
+# React Native default ignores
+*.keystore
+*.iml
+/android/
+/ios/Pods/
